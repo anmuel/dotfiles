@@ -1,0 +1,9 @@
+[user]
+	name = Andreas Müller
+	email = andreas.mueller@gateprotect.com
+[rerere]
+	enabled = true
+[rebase]
+	autosquash = true
+[alias]
+	lol = log --decorate --graph --oneline
