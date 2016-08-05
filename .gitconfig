@@ -7,3 +7,7 @@
 	autosquash = true
 [alias]
 	lol = log --decorate --graph --oneline
+	co = checkout
+	create = checkout -b
+	s = status
+	d = diff
