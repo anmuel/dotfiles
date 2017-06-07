@@ -4,4 +4,4 @@
 # Useful when a new node version is released and gets installed via nvm
 # To ensure a basic global setup
 npm install -g npm npm-check-updates np git-stats tiny-care-terminal \
-  git-standup readme @angular/cli jeopardy nodemon --registry http://registry.npmjs.org
+  git-standup readme @angular/cli jeopardy nodemon yarn --registry http://registry.npmjs.org
