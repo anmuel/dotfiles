@@ -1,10 +1,12 @@
 npm 
 npm-check-updates 
-np 
+np
+yo
 git-stats 
 tiny-care-terminal
 git-standup
 readme
 @angular/cli
+@angular/cdk
 nodemon
 jeopardy
