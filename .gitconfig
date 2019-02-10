@@ -11,3 +11,5 @@
 	create = checkout -b
 	s = status
 	d = diff
+[help]
+	autocorrect = 1
