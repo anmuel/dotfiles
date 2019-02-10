@@ -1,4 +1,4 @@
-npm 
+npm
 npm-check-updates 
 np
 yo
@@ -8,5 +8,10 @@ readme
 @angular/cli
 @angular/cdk
 nodemon
-jeopardy
 typed-install
+lerna
+npm-merge-driver
+@pika/pack
+rimraf
+pkg-ok
+npm-install-peers
