@@ -5,8 +5,6 @@ yo
 git-stats 
 git-standup
 readme
-@angular/cli
-@angular/cdk
 nodemon
 typed-install
 lerna
