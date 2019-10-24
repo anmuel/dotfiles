@@ -13,3 +13,4 @@ npm-merge-driver
 rimraf
 pkg-ok
 npm-install-peers
+npm-upgrade
