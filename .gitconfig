@@ -13,3 +13,6 @@
 	d = diff
 [help]
 	autocorrect = 1
+[cola]
+	spellcheck = true
+	expandtab = true
